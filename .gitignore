@@ -1,8 +1,18 @@
+
+# Python
+__pycache__/
+
+# Virtual environment
+.venv/
+.env
+
+# Data files
 data/raw/
 data/sample/
-__pycache__/
-.env
-.venv/
+
+# Notebooks
 *.ipynb
-amazon-sales-490621-d648c3794ea7.json
+
+# Credentials
+*.json
 
