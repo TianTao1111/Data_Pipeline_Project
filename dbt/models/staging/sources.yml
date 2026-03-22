@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+- name: ecommerce
+  database: amazon-sales-490621
+  schema: ecommerce
+  tables:
+    - name: raw_data
